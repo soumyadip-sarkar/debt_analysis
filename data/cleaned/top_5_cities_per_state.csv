@@ -1,0 +1,90 @@
+State,City,City_Borrowing_Money,Rank
+Andhra Pradesh,Eluru,135897707767,1
+Andhra Pradesh,Visakhapatnam,8279578110,2
+Andhra Pradesh,Vijayawada,4955682292,3
+Andhra Pradesh,Guntur,3561459435,4
+Andhra Pradesh,Nellore,2878799139,5
+Assam,Guwahati,62000000000,1
+Bihar,Patna,58558047922,1
+Bihar,Gaya,16113639173,2
+Bihar,Bhagalpur,13842692668,3
+Bihar,Muzaffarpur,12232940140,4
+Bihar,Bihar Sharif,10322394791,5
+Chhattisgarh,Raipur,42779918132,1
+Chhattisgarh,Bhilai,26490915881,2
+Chhattisgarh,Korba,15377689795,3
+Chhattisgarh,Bilaspur,13976063319,4
+Chhattisgarh,Durg,11375412873,5
+Gujarat,Ahmedabad,61486833923,1
+Gujarat,Surat,49249493863,2
+Gujarat,Vadodara,18417658765,3
+Gujarat,Rajkot,14183328230,4
+Gujarat,Bhavnagar,6545226533,5
+Haryana,Faridabad,42196836087,1
+Haryana,Gurgaon,26165386856,2
+Haryana,Rohtak,11134715548,3
+Haryana,Panipat,8777791058,4
+Haryana,Karnal,8563591637,5
+Himachal Pradesh,Shimla,54000000000,1
+Jharkhand,Dhanbad,33543770523,1
+Jharkhand,Ranchi,30974332281,2
+Jharkhand,Jamshedpur,18218363088,3
+Jharkhand,Bokaro,11944321576,4
+Jharkhand,Mango,6458007724,5
+Karnataka,Bengaluru,339640497820,1
+Karnataka,Hubli-Dharwad,37965894944,2
+Karnataka,Mysore,35696828966,3
+Karnataka,Gulbarga,21400546258,4
+Karnataka,Mangalore,20091487220,5
+Kerala,Thiruvananthapuram,20440540369,1
+Kerala,Kochi,16341101829,2
+Kerala,Kozhikode,11737421703,3
+Kerala,Kollam,9481103095,4
+Kerala,Thrissur,8572823418,5
+Madhya Pradesh,Indore,82899143080,1
+Madhya Pradesh,Bhopal,75898334883,2
+Madhya Pradesh,Jabalpur,44551110873,3
+Madhya Pradesh,Gwalior,44504433517,4
+Madhya Pradesh,Ujjain,21745922509,5
+Maharashtra,Mumbai,73808991159,1
+Maharashtra,Pune,18534497194,2
+Maharashtra,Nagpur,14270570526,3
+Maharashtra,Thane,10923831722,4
+Maharashtra,Pimpri-Chinchwad,10248781992,5
+Manipur,Imphal,5060000000,1
+Mizoram,Aizawl,2000000000,1
+Puducherry,Ozhukarai,6091382632,1
+Puducherry,Puducherry,4908617368,2
+Punjab,Ludhiana,38737867464,1
+Punjab,Amritsar,27096576642,2
+Punjab,Jalandhar,20631331724,3
+Punjab,Patiala,9695072317,4
+Punjab,Bathinda,6839151853,5
+Rajasthan,Jaipur,88331232421,1
+Rajasthan,Jodhpur,29976378554,2
+Rajasthan,Kota,29046667543,3
+Rajasthan,Bikaner,18784718659,4
+Rajasthan,Ajmer,15733465903,5
+Tamil Nadu,Chennai,134274670784,1
+Tamil Nadu,Coimbatore,30362252256,2
+Tamil Nadu,Madurai,29412804102,3
+Tamil Nadu,Tiruchirappalli,26488732439,4
+Tamil Nadu,Tiruppur,25953960122,5
+Telangana,Hyderabad,97293229111,1
+Telangana,Warangal,11294729582,2
+Telangana,Nizamabad,4319339357,3
+Telangana,Khammam,4243275454,4
+Telangana,Karimnagar,3629731740,5
+Tripura,Agartala,2320000000,1
+Uttar Pradesh,Lucknow,24425085288,1
+Uttar Pradesh,Kanpur,23976338029,2
+Uttar Pradesh,Ghaziabad,14294197742,3
+Uttar Pradesh,Agra,13748503956,4
+Uttar Pradesh,Meerut,11318437579,5
+Uttarakhand,Dehradun,42991731255,1
+Uttarakhand,Haridwar,17008268745,2
+West Bengal,Kolkata,193621821171,1
+West Bengal,Howrah,46377442520,2
+West Bengal,Durgapur,24411596859,3
+West Bengal,Asansol,24306300330,4
+West Bengal,Siliguri,21947430936,5
